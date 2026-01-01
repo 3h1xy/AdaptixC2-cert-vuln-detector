@@ -3,7 +3,7 @@
 Adaptix cert Vulnerability Detector
 
 This script parses the output from Adaptix Framework Extension Kit's certi_enum BOF
-and identifies AD CS vulnerabilities based on the same logic used by cert for
+and identifies AD CS vulnerabilities based on the same logic used by Certipy for
 detecting ESC1-ESC16 vulnerabilities.
 
 The BOF (Beacon Object File) is part of the Adaptix Extension Kit:
@@ -44,7 +44,7 @@ class CertificateAuthority:
 
     def can_user_enroll(self) -> bool:
         """Check if user can enroll (simplified - would need actual user context)."""
-        # In real cert, this checks actual permissions
+        # In real Certipy, this checks actual permissions
         # For this parser, we'll assume based on common permissions
         return True  # Simplified for demonstration
 
@@ -105,7 +105,7 @@ class CertificateTemplate:
 
     def can_user_enroll(self) -> bool:
         """Check if user can enroll (simplified)."""
-        # In real cert, this checks actual ACE permissions
+        # In real Certipy, this checks actual ACE permissions
         return True  # Simplified for demonstration
 
 
