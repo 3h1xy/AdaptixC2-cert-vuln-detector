@@ -100,8 +100,8 @@ The script detects vulnerabilities through two methods:
 ## Related Projects
 
 - [Adaptix Framework Extension Kit](https://github.com/Adaptix-Framework/Extension-Kit) - The BOF framework this detector is designed for
-- [Cert](https://github.com/ly4k/Cert) - Original vulnerability detection logic
+- [Certipy](https://github.com/ly4k/Certipy) - Original vulnerability detection logic
 
 ## Author
 
-Based on Cert's vulnerability detection logic, adapted for Adaptix Extension Kit BOF output analysis.
+Based on Certipy's vulnerability detection logic, adapted for Adaptix Extension Kit BOF output analysis.
